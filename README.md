@@ -1,29 +1,47 @@
-# Sales Data Analysis Dashboard (Excel)
+# 📊 Sales Data Analysis Dashboard (Excel)
 
-## 📊 Project Overview
-This project analyzes sales data using Excel to generate insights on:
-- Region-wise sales performance
-- Category-wise sales distribution
-- Monthly sales trends
+## 📌 Project Overview
+This project focuses on analyzing sales data using Microsoft Excel to uncover meaningful business insights. The dashboard provides a clear understanding of sales performance across regions, product categories, and monthly trends.
 
-## 🛠 Tools Used
+---
+
+## 🛠 Tools & Skills Used
 - Microsoft Excel
-- Pivot Tables
-- Pivot Charts
+- Pivot Tables & Pivot Charts
+- Data Cleaning & Transformation
+- Dashboard Design
+
+---
+
+## 📊 Key Analysis Performed
+- Region-wise sales comparison
+- Category-wise performance analysis
+- Monthly sales trend visualization
+- Identification of top-performing segments
+
+---
 
 ## 📈 Key Insights
-- North region has highest sales
-- Technology category leads revenue
-- Sales fluctuate across months with visible peaks
+- North region generated the highest sales
+- Technology category contributed the most revenue
+- Sales showed fluctuations across months with noticeable peaks and dips
+- Mid-year performance was relatively lower compared to early and late months
+
+---
 
 ## 📷 Dashboard Preview
-<img width="1919" height="990" alt="region_chart png" src="https://github.com/user-attachments/assets/277bd1a7-4bda-4b0c-86f3-6bf07e8f4446" />
-<img width="1919" height="993" alt="category png" src="https://github.com/user-attachments/assets/7d80d48f-1dc3-49d7-85fb-f033e7f4a969" />
-<img width="1919" height="995" alt="monthly_trends png" src="https://github.com/user-attachments/assets/cf8da4f2-371b-428e-882f-2a3f1a317ab7" />
+![Dashboard](dashboard.png)
+
+---
+
+## 📁 Project Files
+- `sales_dashboard.xlsx` → Complete Excel dashboard
+- `dashboard.png` → Dashboard preview
 
 
-## 📁 Files
-- sales_dashboard.xlsx
-- dashboard.png
-<img width="1919" height="992" alt="dashboard png" src="https://github.com/user-attachments/assets/17de5359-8eaa-4c15-8dd5-d7b40910ce2c" />
+## 🚀 Project Outcome
+This project demonstrates the ability to transform raw data into actionable insights using Excel, helping businesses make data-driven decisions.
 
+
+## 🔗 Connect With Me
+[adityasingh](https://www.linkedin.com/in/adityaksingh141225/)
