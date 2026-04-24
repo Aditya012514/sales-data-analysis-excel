@@ -30,7 +30,8 @@ This project focuses on analyzing sales data using Microsoft Excel to uncover me
 ---
 
 ## 📷 Dashboard Preview
-![Dashboard](dashboard.png)
+<img width="1919" height="992" alt="dashboard png" src="https://github.com/user-attachments/assets/6e9602f1-58bf-40cb-987b-d6711f380418" />
+
 
 ---
 
